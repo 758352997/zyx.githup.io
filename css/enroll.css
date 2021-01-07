@@ -1,0 +1,136 @@
+.main {
+  width: 1190px;
+  margin: 0 auto; }
+
+.show {
+  overflow: hidden; }
+  .show .head-warp {
+    overflow: hidden;
+    background: #f5f5f5; }
+    .show .head-warp .head {
+      overflow: hidden;
+      background: #f5f5f5;
+      border-bottom: 1px solid #f5f5f5;
+      height: 36px; }
+      .show .head-warp .head-left {
+        line-height: 36px;
+        float: left;
+        overflow: hidden; }
+        .show .head-warp .head-left a {
+          font-size: 12px;
+          color: #999; }
+        .show .head-warp .head-left .login {
+          color: #ff4400; }
+        .show .head-warp .head-left .lasta {
+          margin-left: 10px; }
+      .show .head-warp .head-right {
+        float: right;
+        line-height: 36px; }
+        .show .head-warp .head-right ul li {
+          float: left;
+          padding: 0 6px; }
+          .show .head-warp .head-right ul li .indexa {
+            color: #ff4400; }
+          .show .head-warp .head-right ul li a {
+            font-size: 12px;
+            color: #6c6c6c;
+            margin-right: 7px; }
+  .show .content {
+    padding: 20px 0;
+    height: 43px; }
+    .show .content .log {
+      width: 203px;
+      height: 43px; }
+      .show .content .log img {
+        width: 203px;
+        height: 43px; }
+  .show .enroll {
+    position: relative;
+    margin-top: 30px;
+    width: 100%;
+    height: 400px;
+    background: url(https://img.alicdn.com/tfs/TB1zBOvrvzO3e4jSZFxXXaP_FXa-2500-600.jpg) no-repeat;
+    background-size: cover;
+    background-position: 50%; }
+    .show .enroll-main {
+      background: #f5f5f5;
+      position: absolute;
+      top: 100px;
+      left: 38%;
+      width: 300px;
+      height: 200px;
+      margin: auto;
+      padding: 20px; }
+      .show .enroll-main input {
+        width: 200px;
+        height: 36px;
+        margin-bottom: 20px;
+        padding-left: 6px; }
+      .show .enroll-main button {
+        width: 100%;
+        height: 40px;
+        background: #ff4400;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        color: #fff; }
+      .show .enroll-main .span1 {
+        text-align: center;
+        font-size: 12px; }
+      .show .enroll-main .span2 {
+        margin-top: -20px;
+        font-size: 12px; }
+
+.proto {
+  position: absolute;
+  top: 60px;
+  width: 724px;
+  height: 462px;
+  padding: 20px;
+  margin: auto;
+  border: 1px solid #ccc;
+  border-top: 2px solid #ff4400;
+  background: #fff;
+  left: 20%; }
+  .proto .close {
+    color: #ccc;
+    float: right;
+    font-size: 32px;
+    margin-top: -10px; }
+  .proto .close:hover {
+    color: #ff4400; }
+  .proto h3 {
+    padding-bottom: 10px; }
+  .proto p {
+    color: #999;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 30px; }
+  .proto span {
+    padding-top: 10px;
+    color: #999;
+    font-size: 12px; }
+  .proto .prat a {
+    color: #ff5b20; }
+  .proto .prat a:hover {
+    color: #ff5b20;
+    text-decoration: underline;
+    font-size: 14px; }
+  .proto .divbtn {
+    margin-left: 240px; }
+    .proto .divbtn button {
+      width: 200px;
+      display: inline-block;
+      zoom: 1;
+      display: inline;
+      height: 36px;
+      line-height: 36px;
+      padding: 0 20px;
+      color: #FFF;
+      font-weight: 700;
+      font-size: 16px;
+      text-align: center;
+      background: #ff4001;
+      border: 0;
+      border-radius: 3px;
+      cursor: pointer; }
